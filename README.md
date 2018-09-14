@@ -13,7 +13,7 @@ Pre-requisites:
 
 The generated model:
 
-* Uses the texture as both visual and collision
+* Uses the mesh as both visual and collision
 * Is static
 
 For example, your files could be located as follows:
@@ -24,7 +24,7 @@ For example, your files could be located as follows:
 └── TheBanana.PNG
 ~~~
 
-The you can run the following command:
+Then you can run the following command:
 
     bash mesh_to_sdf.bash -m /home/username/banana/TheBanana\
                           -s /home/username/.gazebo/models\
