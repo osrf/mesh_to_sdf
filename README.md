@@ -33,7 +33,7 @@ Then you can run the following command:
 And you'll create the following files:
 
 ~~~
-/home/username/My Banana
+/home/username/.gazebo/models/My Banana
 ├── materials
 │   └── textures
 │       └── My Banana.png
